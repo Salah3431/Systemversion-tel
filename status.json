@@ -1,1 +1,4 @@
-{  "enabled": true   }
+{
+  "enabled": false,
+  "message": "Avstängd av ägaren."
+}
