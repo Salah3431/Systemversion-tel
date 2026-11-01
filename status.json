@@ -1,4 +1,4 @@
 {
-  "enabled": false,
+  "enabled": enable,
   "version": "1.2.0"
 }
